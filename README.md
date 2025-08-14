@@ -1,39 +1,61 @@
-<p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-TXT-LEECH-BOT Logo">
-</p>
 <h1 align="center">
-  VJ TXT LEECH BOT
+  ✨ SAINI DRM Bot ✨
 </h1>
 
-## Deploy Tutorial - [Video Link](https://youtu.be/l1u3C_F79QE)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+DRM+Bot+by+@nikhil.saini.khe" alt="Typing SVG" />
+</p>
 
-## Credit
+---
 
-<b><details><summary>Tap On Me For See Credit</summary>
+> 🔐 **Note:** CP DRM supported — Minimum quality **360p**  
+> 🚫 **Do not remove the credit tag**
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/Kingvj01) So Don't Forgot To Give Credit
+---
 
-💖 And Thank You So Much To All Who Help In This Journey 💕
+## 📜 Commands
 
-Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
+| Command | Description |
+|---------|-------------|
+| `/start` | Start the bot |
+| `/stop`  | Stop the bot |
+| `/help`  | Show help message |
 
-</b>
-</details>
+---
 
-## About Owner 
+## 🚀 Deployment Process
 
-<b><details><summary>Tap On Me For See Details Of Owner</summary>
+🎬 **Watch Full Deployment Tutorial:**  
+[![YouTube Video](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO)
 
-- YouTube Channel : [Tech VJ](https://youtube.com/@Tech_VJ)
-- Telegram Channel : [VJ Botz](https://telegram.me/VJ_Botz)
-- Contact Link : [King VJ](https://telegram.me/Kingvj01)
-- Instagram Id Link : [Tech VJ](https://instagram.com/tech.vj)
+### Step-by-Step:
+1. **Fork** the Repository  
+2. **Edit `vars.py`** — Fill in your `API_ID` and `API_HASH`  
+3. **Edit `README.md`** — Change the deploy button links to point to your own fork  
+4. Choose any platform and **Deploy** directly using the buttons below:
 
-</b>
-</details>
+---
 
+## 📦 Deploy via Buttons
 
-### Copyright ©️ [Tech VJ](https://youtube.com/@Tech_VJ)
+[![Deploy to Render](https://img.shields.io/badge/Deploy%20to-Render-blue?style=for-the-badge&logo=render)](https://render.com/deploy)  
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku)](https://www.heroku.com/deploy?template=https://github.com/nikhilsainiop/saini-txt-direct)  
+[![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to-Koyeb-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/deploy?name=saini-txt-direct&repository=nikhilsainiop%2FSaini-txt-direct&branch=main&instance_type=free&instances_min=0)
 
-<b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
+---
 
+## 🤖 Bot Usernames
+
+- [@saini_contact_bot](https://t.me/saini_contact_bot)
+- [@saini_file_store_bot](https://t.me/saini_file_store_bot)
+
+---
+
+## 📂 Original Repositories
+
+- 🔗 [nikhilsainiop/saini-txt-direct](https://github.com/nikhilsainiop/saini-txt-direct)
+- 🔗 [cyberseller999/saini-txt-direct](https://github.com/cyberseller999/saini-txt-direct)
+
+---
+
+> 👨‍💻 Created with ❤️ by [@nikhil.saini.khe](https://instagram.com/nikhil.saini.khe)
